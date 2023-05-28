@@ -1,0 +1,12 @@
+0.0.0.0    www.youtube-nocookie.com
+0.0.0.0    c.youtube.com
+0.0.0.0    ytimg.l.google.com
+0.0.0.0    googlesyndication.com
+0.0.0.0    m.youtube.com
+0.0.0.0    googlevideo.com	
+0.0.0.0    l.google.com
+0.0.0.0    youtube.com
+0.0.0.0    googlevideo.com
+0.0.0.0    ytimg.l.google.com
+0.0.0.0    ytimg.com
+0.0.0.0    youtube.l.google.com
